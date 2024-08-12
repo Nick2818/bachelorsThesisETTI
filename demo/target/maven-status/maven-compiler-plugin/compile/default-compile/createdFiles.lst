@@ -1,0 +1,13 @@
+com\example\demo\dto\WeatherDTO.class
+com\example\demo\DemoApplication.class
+com\example\demo\dto\UserCredentials.class
+com\example\demo\controller\MapController.class
+com\example\demo\service\FirebaseAuthService.class
+com\example\demo\dto\PolyDTO.class
+com\example\demo\config\UserRole.class
+com\example\demo\config\WebConfig.class
+com\example\demo\config\FirebaseAuthTokenFilter.class
+com\example\demo\config\FirebaseConfig.class
+com\example\demo\controller\AuthController.class
+com\example\demo\entity\PolyEntity.class
+com\example\demo\security\SecurityConfig.class
